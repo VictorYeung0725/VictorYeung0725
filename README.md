@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React.js 
 👯 I’m looking to collaborate on an Open Source project 
+
+personal learning target and commitment
+
+"I am dedicated to becoming a master developer in the MERN stack. My goal is to attain a deep and comprehensive understanding of MongoDB, Express.js, React, and Node.js. I will commit myself to mastering the intricacies of each technology, honing my skills in building dynamic and responsive user interfaces using React, developing robust server-side applications with Node.js and Express, and seamlessly connecting them to MongoDB databases. I will strive to stay up-to-date with the latest best practices, design patterns, and tools within the MERN ecosystem. Through consistent practice, learning from real-world projects, and seeking out challenges, I will become proficient in designing, building, testing, and deploying full-stack web applications. With determination and continuous growth, I aim to become a MERN stack master developer capable of delivering high-quality, modern, and innovative web solutions."
